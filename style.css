@@ -1,0 +1,43 @@
+body {
+  background-color: #eeee;
+}
+
+.container {
+  background-color: #a5aba4;
+  text-justify: inter-word;
+}
+
+p {
+  padding: 15px;
+  margin: auto;
+}
+
+ul li {
+  display: inline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+h2 {
+  padding: 7px;
+  margin: auto;
+  text-align: center
+}
+
+#mainTitleDiv {
+  color: white;
+  background-color: black;
+  text-align: center
+}
+
+.subTitleDiv {
+  background: #444447;
+  color: white;
+  border-radius: 25px;
+  text-align: center
+}
